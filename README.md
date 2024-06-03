@@ -1,33 +1,10 @@
-# login_signup_screen
+## Diseño Login ACT4 Daniel Lopez 6J
 
-Login, Signup and Welcome screen UI design in Flutter 
+- ![image](https://github.com/JoseDanielL/DisenoLogin/assets/99343068/2058463a-1f0e-45a0-8b89-8d0f51e4eca9)
+- Imagen : ![image](https://github.com/JoseDanielL/DisenoLogin/assets/99343068/1b23b79a-3139-48da-a721-ffa337981fff)
 
-## [Watch it on YouTube](https://www.youtube.com/watch?v=iUG_2gwNNn4)
-
-
-![App UI](AppImages/intro.jpg)
- 
+- ![image](https://github.com/JoseDanielL/DisenoLogin/assets/99343068/8ef4ee86-d8e3-4053-b75c-8d49d2a899b8)
+- Imagen : ![image](https://github.com/JoseDanielL/DisenoLogin/assets/99343068/66820ad8-ab46-43d7-a561-3c874aa06887)
 
 
- 
 
-Happy Learning 👍
-
-<br>
- 
-Subscribe Now! <a href="https://www.youtube.com/channel/UCknAgO0AdG61Yd1G7D1Arxg">BackSlash Flutter YouTube Channel</a>
-Show some :heart: and star the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/backslashflutter/userlocation-flutter.svg?style=social&label=Star)](https://github.com/backslashflutter/userlocation-flutter) [![GitHub forks](https://img.shields.io/github/forks/backslashflutter/userlocation-flutter.svg?style=social&label=Fork)](https://github.com/backslashflutter/userlocation-flutter/fork) [![GitHub watchers](https://img.shields.io/github/watchers/backslashflutter/userlocation-flutter.svg?style=social&label=Watch)](https://github.com/backslashflutter/userlocation-flutter) [![GitHub followers](https://img.shields.io/github/followers/backslashflutter.svg?style=social&label=Follow)](https://github.com/backslashflutter/userlocation-flutter)
-[![Reddit Follow](https://img.shields.io/reddit/user-karma/link/backslashflutter?style=social)](https://www.reddit.com/user/backslashflutter)
-
-
-<h3>Stay Healthy!✨Stay Safe!🖖</h3>
- 
-
-## Note
- I do not own any of the images used in this project.
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
