@@ -1,4 +1,4 @@
-## Diseño Login ACT4 Daniel Lopez 6J
+## Diseño Login ACT1 Daniel Lopez 6J
 
 - ![image](https://github.com/JoseDanielL/DisenoLogin/assets/99343068/2058463a-1f0e-45a0-8b89-8d0f51e4eca9)
 - Imagen : ![image](https://github.com/JoseDanielL/DisenoLogin/assets/99343068/1b23b79a-3139-48da-a721-ffa337981fff)
